@@ -28,8 +28,9 @@ insertionSort(arr,n);
 
 printf("Array elements after Insertion Sort\n");
  
- for( i = 0;i<n;i++)
+ for(i=0;i<n;i++)
  {
  printf("%d\n",arr[i]);
  }
+ 
 }
